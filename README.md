@@ -11,5 +11,5 @@ Shooting 2D Game
 - press spacebar to shoot a laser
 - The game have 3 stages. Eliminate all the enemies and Boss to clear each stage. Beware don't clash with the enemies Otherwise, your life point will decrease, If Superman's life point decrease to 0 game will over!.
 
-## Credit
+## About
 จัดทำขึ้นเป็นโปรเจ็คในวิชา Programming Fundamentals II ชั้นปีที่ 2 เทอม 2
